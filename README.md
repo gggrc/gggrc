@@ -26,17 +26,23 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ### 1. Dijkstra in Flight Schedule Optimization and Route Analysis
 📍 Using Dijkstra's algorithm for Improving Airline Operational Efficiency, Flight Schedule Optimization and Route Analysis
+
 🔗 [View Project](https://github.com/Ronny-Saputra/DAA-code)
+
 🛠️ **Tech**: C, Graph Theory
 
 ### 2. T3 Social Media App
 📍 A full-stack social media platform with the T3 stack  
+
 🔗 [View Project](https://github.com/pejuangvscode/ncfi-prayer)
+
 🛠️ **Tech**: T3 Stack (Next.js, TypeScript, Next.js, TRPC, Tailwind, Prisma)
 
 ### 3. Image Processing - Defocused Microscopic Image Restoration Using Blur Kernels
 📍 Restoring blurred microscopic images using advanced blur kernel estimation techniques 
+
 🔗 [View Project](https://colab.research.google.com/drive/1Rwo2SwXrk9eyEAbHdtlElOUhqEUEphom#scrollTo=EnlcxM8EXqJu)
+
 🛠️ **Tech**: Python, OpenCV, NumPy
 
 ### 4. KeyToHatch Typing Game  
@@ -45,7 +51,8 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
    - Real-time WPM tracking  
    - Unlockable creatures  
    - Progressive difficulty
-🛠️ **Tech**: Java
-## 📫 Let's Connect!
 
+🛠️ **Tech**: Java
+
+## 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-gracepatricia1125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gracepatricia1125@gmail.com)
