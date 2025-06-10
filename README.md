@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 🔗 [View Project](https://github.com/pejuangvscode/ncfi-prayer)
 
-🛠️ **Tech**: T3 Stack (Next.js, TypeScript, Tailwind)
+🛠️ **Tech**: T3 Stack (Next.js, TypeScript, Next.js, TRPC, Tailwind, Prisma)
 
 ### 3. Image Processing - Defocused Microscopic Image Restoration Using Blur Kernels
 📍 Restoring blurred microscopic images using advanced blur kernel estimation techniques 
@@ -45,7 +45,13 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 🛠️ **Tech**: Python, OpenCV, NumPy
 
-
+### 4. KeyToHatch Typing Game  
+📍 Interactive typing game with egg-hatching mechanics  
+🔥 **Features**:  
+   - Real-time WPM tracking  
+   - Unlockable creatures  
+   - Progressive difficulty  
+🛠️ **Tech**: Java
 ## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-gracepatricia1125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gracepatricia1125@gmail.com)
