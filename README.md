@@ -26,18 +26,21 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ### 1. Dijkstra in Flight Schedule Optimization and Route Analysis
 📍 Using Dijkstra's algorithm for Improving Airline Operational Efficiency, Flight Schedule Optimization and Route Analysis
+
 🔗 [View Project](https://github.com/Ronny-Saputra/DAA-code)
 
 🛠️ **Tech**: C, Graph Theory
 
 ### 2. T3 Social Media App
 📍 A full-stack social media platform with the T3 stack  
+
 🔗 [View Project](https://github.com/pejuangvscode/ncfi-prayer)
 
 🛠️ **Tech**: T3 Stack (Next.js, TypeScript, Tailwind)
 
 ### 3. Image Processing - Defocused Microscopic Image Restoration Using Blur Kernels
 📍 Restoring blurred microscopic images using advanced blur kernel estimation techniques 
+
 🔗 [View Project](https://colab.research.google.com/drive/1Rwo2SwXrk9eyEAbHdtlElOUhqEUEphom#scrollTo=EnlcxM8EXqJu)
 
 🛠️ **Tech**: Python, OpenCV, NumPy
