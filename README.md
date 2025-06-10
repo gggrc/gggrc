@@ -24,23 +24,21 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ## 🚀 Featured Projects
 
-### 1. Dijkstra in Disaster Navigation
-📍 Using Dijkstra's algorithm for emergency navigation in disaster areas  
-🔗 [View Project](#) *(replace with actual link)*
+### 1. Dijkstra in Flight Schedule Optimization and Route Analysis
+📍 Using Dijkstra's algorithm for Improving Airline Operational Efficiency, Flight Schedule Optimization and Route Analysis
+🔗 [View Project](https://github.com/Ronny-Saputra/DAA-code)
+🛠️ **Tech**: C, Graph Theory
 
 ### 2. T3 Social Media App
 📍 A full-stack social media platform with the T3 stack  
-🔗 [View Project](#) *(replace with actual link)*
+🔗 [View Project](https://github.com/pejuangvscode/ncfi-prayer)
+🛠️ **Tech**: T3 Stack (Next.js, TypeScript, Tailwind)
 
-### 3. Bank Churn Prediction
-📍 Decision Tree model for analyzing customer churn  
-🔗 [View Project](#) *(replace with actual link)*
+### 3. Image Processing - Defocused Microscopic Image Restoration Using Blur Kernels
+📍 Restoring blurred microscopic images using advanced blur kernel estimation techniques 
+🔗 [View Project](https://colab.research.google.com/drive/1Rwo2SwXrk9eyEAbHdtlElOUhqEUEphom#scrollTo=EnlcxM8EXqJu)
+🛠️ **Tech**: Python, OpenCV, NumPy
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 
