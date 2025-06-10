@@ -48,6 +48,3 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 [![Email](https://img.shields.io/badge/Email-gracepatricia1125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gracepatricia1125@gmail.com)
 
 
----
-
-⭐️ From [YourUsername](https://github.com/yourusername)
