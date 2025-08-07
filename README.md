@@ -1,59 +1,59 @@
-# 👋 Hi there, I'm Grace Patricia!
+# 👋 Hi there, I'm Grace Patricia Ananta!
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building practical and impactful software solutions. I love working with web technologies, especially using **Next.js**, **Tailwind CSS**, and **Firebase** to create modern, responsive interfaces.
 
 ---
 
-## 🌱 About Me
+## About Me
 
-- 🎓 Computer Science student  
-- 💻 Frequently take the role of **front-end developer** in campus projects  
-- ⚙️ Focused on building intuitive and responsive UI using modern web technologies  
-- 🧠 Currently learning more about AI, computer vision, and full-stack development  
+- Computer Science student  
+- Frequently take the role of **front-end developer** in campus projects  
+- Focused on building intuitive and responsive UI using modern web technologies  
+- Currently learning more about AI, computer vision, and full-stack development  
 
 ---
 
-## 🚀 Projects
+## Projects
 
 Here are some of the projects I’ve worked on:
 
-### 🎮 KeytoHatch – Java Typing Game  
+### KeytoHatch – Java Typing Game  
 > A simple typing game where you hatch an egg by typing words correctly and quickly.  
 > Built using Java Swing.  
 [🔗 View Project](https://github.com/gggrc/KeyToHatch)
 
 ---
 
-### 🙏 NCFI Prayer – Prayer Sharing App  
+### NCFI Prayer – Prayer Sharing App  
 > A spiritual platform for users to post and support each other's prayers.  
 > Built with **Next.js**, **Firebase**, and **Tailwind CSS**.  
 [🔗 View Project](https://github.com/gggrc/ncfiprayer)
 
 ---
 
-### 📊 Asthma Risk Classification – IoT + Machine Learning
+### Asthma Risk Classification – IoT + Machine Learning
 
 > A data-driven approach to identify asthma risk levels across different campus locations at **Universitas Pelita Harapan (UPH)**.
 
-> 🧠 Built with **Random Forest**, **Naive Bayes**, and **ESP32 IoT devices**.
+> Built with **Random Forest**, **Naive Bayes**, and **ESP32 IoT devices**.
 
 📌 Focus:
 - Collect real-time environmental data (temperature, humidity, gas)
 - Classify areas into **High**, **Medium**, and **Low** asthma risk
 - Analyze risk distribution across:
-  - 🏫 Food Junction
-  - 📚 Johannes Oentoro Library
-  - 🧑‍🏫 Classrooms
+  - Food Junction
+  - Johannes Oentoro Library
+  - Classrooms
 
 🔗 [View Project](https://colab.research.google.com/drive/1ZrvCJzeJ_406wFOipc734slXzjRB_Jp4#scrollTo=Fjoijx55ZgrM)
 
 ---
 
-### ⚽ Striker Performance Analysis – Indonesian National Team
+### Striker Performance Analysis – Indonesian National Team
 
 > An analytical approach to evaluate and improve **attacking performance** of Indonesia’s national football team.
 
-> 📈 Built with **statistical analysis** and **data-driven insights**.
+> Built with **statistical analysis** and **data-driven insights**.
 
 📌 Focus:
 - Evaluate metrics like shot accuracy, pass completion, and positioning
