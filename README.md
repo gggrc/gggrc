@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Grace Patricia Ananta!
+# 👋 Hi there, I'm Grace!
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building practical and impactful software solutions. I love working with web technologies, especially using **Next.js**, **Tailwind CSS**, and **Firebase** to create modern, responsive interfaces.
 
